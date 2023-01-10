@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+    font-family: 'Righteous', cursive !important;
+}
+
+h1 {
+    font-family: 'Rubik 80s Fade', cursive !important;
+}
+
+.back-g {
+    background-image:
+        linear-gradient(rgba(44, 7, 87, 0.9), rgba(151, 12, 12, 0.8)),
+        url('https://dunkdesign.co.uk/wp-content/uploads/2020/02/10-tips-for-choosing-the-most-effective-domain-name-for-your-business.png');
+    background-size: cover !important;
+    height: 100vh;
+}
